@@ -1,7 +1,7 @@
-# webgl_modeller
-3D Modeller using WebGL
+# web_modeller
+3D Modeller using Modern Web Graphics
 
-Experimenting with modern tooling by throwing together a 3D modeller.
+Experimenting with modern tooling by throwing together a 3D modeller on the web.
 
-Can be viewed at:
+The WebGL example can be viewed at:
 http://www.disckitty.ca/Gallery/Sample-3D-Modeller
